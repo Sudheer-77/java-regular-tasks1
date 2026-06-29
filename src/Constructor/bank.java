@@ -34,8 +34,6 @@ public class bank {
 	String ifscCode;
 	String mobileNumber;
 	String panNumber;
-	
-	
 
 	bank() {
 		accountNumber = 100;
@@ -70,8 +68,6 @@ public class bank {
 		this.balance = balance;
 		this.gender = gender;
 	}
-	
-	
 
 	public static void main(String[] args) {
 		bank b = new bank();
