@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class Array25sort {
+public class Array25Mergsort {
 
 	public static void main(String[] args) {
 		System.out.println("main method started !!");
