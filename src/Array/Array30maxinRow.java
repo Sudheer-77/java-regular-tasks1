@@ -1,4 +1,5 @@
-public class Array24maxinRow {
+package Array;
+public class Array30maxinRow {
 
     public static void main(String[] args) {
 
