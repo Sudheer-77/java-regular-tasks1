@@ -1,4 +1,5 @@
-public class Aarry40Secondaryarraysum {
+package Array;
+public class Array41Secondarydiagonalarraysum {
 
     public static void main(String[] args) {
 
