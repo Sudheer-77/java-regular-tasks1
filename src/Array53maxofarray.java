@@ -30,5 +30,5 @@ public class Array53maxofarray {
 
         System.out.println("\nMaximum Sum = " + maxSum);
         System.out.println("Maximum Sum Row = " + (rowIndex + 1));
-    }
+    } 
 }
