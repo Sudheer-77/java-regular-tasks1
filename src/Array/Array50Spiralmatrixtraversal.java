@@ -12,7 +12,7 @@ public class Array50Spiralmatrixtraversal {
         };
 
         int top = 0;
-        int bottom = arr.length - 1;
+        int bottom = arr.length - 1;                                                                                                                   
 
         int left = 0;
         int right = arr[0].length - 1;

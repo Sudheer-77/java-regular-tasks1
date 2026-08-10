@@ -21,6 +21,6 @@ public class com5minAndMaxinArray {
 			}
 		}
 		System.out.println(" max number is :"+max);
-		System.out.println(" max number is :"+min);
+		System.out.println(" min number is :"+min);
 	}
 }

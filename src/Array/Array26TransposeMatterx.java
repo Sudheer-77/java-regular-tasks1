@@ -43,4 +43,4 @@ public class Array26TransposeMatterx {
 
         sc.close();
     }
-}
+}  
