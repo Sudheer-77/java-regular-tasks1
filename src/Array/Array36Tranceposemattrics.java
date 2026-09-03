@@ -18,4 +18,4 @@ public class Array36Tranceposemattrics {
             System.out.println();
         }
     }
-}
+} 
