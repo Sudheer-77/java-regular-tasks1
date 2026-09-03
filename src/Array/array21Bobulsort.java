@@ -31,4 +31,4 @@ public class array21Bobulsort {
 
 		System.out.println(Arrays.toString(arr));
 	}
-}
+}  
