@@ -1,6 +1,6 @@
 package Array;
 
-public class Array20MultiplicationMatricx {
+public class Array58MultiplicationMatricx {
 
 	public static void main(String[] args) {
 		int sum1=0;

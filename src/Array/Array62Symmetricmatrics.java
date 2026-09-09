@@ -1,5 +1,5 @@
 package Array;
-public class Array53Symmetricmatrics {
+public class Array62Symmetricmatrics {
 
     public static void main(String[] args) {
 

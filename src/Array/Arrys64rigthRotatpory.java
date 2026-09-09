@@ -1,6 +1,6 @@
 package Array;
 
-public class arrysrigthRotatpory {
+public class Arrys64rigthRotatpory {
 
     public static void main(String[] args) {
 

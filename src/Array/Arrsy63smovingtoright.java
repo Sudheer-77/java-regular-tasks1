@@ -3,7 +3,7 @@ package Array;
 
 import java.util.Arrays;
 
-public class Arrsysmovingtoright {
+public class Arrsy63smovingtoright {
 	public static void main (String args[])
 	{     int index = 0;
 		int arr []= {12,0,34,0,456};

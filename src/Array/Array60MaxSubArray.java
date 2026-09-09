@@ -1,6 +1,6 @@
 package Array;
 
-public class ArrayMaxSubArray {
+public class Array60MaxSubArray {
 
     public static void main(String[] args) {
 
