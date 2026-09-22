@@ -333,6 +333,37 @@ public class LibraryApplication {
                 member,
                 selectedRecord.getBook().getBookId()
         );
+//        inta
     }
 }
 
+
+
+//
+//24. Important Java concepts covered
+//
+//Your POC currently covers a lot of Core Java:
+//
+//Concept	Where used
+//Class	All classes
+//Object	Book, Member, Library
+//Constructor	Book, Member, IssueRecord
+//Encapsulation	private fields
+//Getter/Setter	Book
+//Enum	Genre
+//ArrayList	Books and issued books
+//Exception	Custom exceptions
+//try/catch	Issue operation
+//throw	Custom exceptions
+//static	Scanner, IDs
+//final	MAX_BOOKS
+//switch	Menus
+//Loop	Menus/book lists
+//Scanner	User input
+//LocalDate	Issue/return dates
+//ChronoUnit	Late-day calculation
+//synchronized	Book issuing
+//Composition	Member → LibraryPass / IssueRecord
+//Method Overloading	Can be added later
+//Inheritance	Custom exceptions
+//Polymorphism	Exception hierarchy
