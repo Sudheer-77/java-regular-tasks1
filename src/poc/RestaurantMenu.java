@@ -3,6 +3,7 @@ package poc;
 import java.util.Scanner;
 
 public class RestaurantMenu {
+	//poc of conditional statements,switchcase
 
 	static class OrderNode {
 		String name;
