@@ -1,6 +1,6 @@
 package Multithreading;
 
-class MyThread extends Thread {
+class TextMyThreadDemo extends Thread {
     public void run() {
         System.out.println("Child Thread Name: " + Thread.currentThread().getName());
     }
