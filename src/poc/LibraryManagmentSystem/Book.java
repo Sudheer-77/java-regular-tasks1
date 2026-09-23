@@ -67,3 +67,15 @@ public class Book {
         System.out.println("--------------------------------");
     }
 }
+//
+//Why private?
+//
+//Because we're using encapsulation.
+//
+//The data cannot be directly accessed from outside.
+//Interview answer
+//
+//What is encapsulation?
+//
+//Encapsulation means wrapping data and methods together inside
+//a class and restricting direct access to the data using access modifiers such as private.
