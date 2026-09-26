@@ -27,7 +27,7 @@ public class NthPrime {
 
             num++;
         }
-    }
+    }  
 
     private static boolean isPrime(int n) {
 
