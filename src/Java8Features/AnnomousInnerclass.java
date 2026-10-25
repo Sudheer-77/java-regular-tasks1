@@ -19,6 +19,7 @@ public class AnnomousInnerclass {
 
 			@Override
 			void method2() {
+				System.out.println(" methos 2 called");
 
 			}
 		};
