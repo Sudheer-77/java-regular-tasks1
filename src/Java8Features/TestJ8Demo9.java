@@ -19,7 +19,7 @@ public class TestJ8Demo9 {
 		al.add(0);
 		al.add(15);
 
-		Comparator<Integer> c = (o1, o2) -> (o1 < o2) ? 1 : (o1 > o2) ? -1 : 0;
+		Comparator<Integer> c = (N1, N2) -> (N1 < N2) ? 1 : (N1 > N2) ? -1 : 0;
 		Collections.sort(al, c);
 		System.out.println(al);
 
