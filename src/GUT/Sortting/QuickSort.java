@@ -1,4 +1,4 @@
-package GUT;
+package GUT.Sortting;
 import java.util.Arrays;
 
 public class QuickSort {
